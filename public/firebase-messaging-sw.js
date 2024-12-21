@@ -5,13 +5,13 @@ importScripts(
 
 // Replace these with your own Firebase config keys...
 const firebaseConfig = {
-  apiKey: "AIzaSyAcmymWqW0BNeWMHVW1Z2lsvBvVu5tcJpY",
-  authDomain: "job-circular-net.firebaseapp.com",
-  databaseURL: "https://job-circular-net-default-rtdb.firebaseio.com",
-  projectId: "job-circular-net",
-  storageBucket: "job-circular-net.appspot.com",
-  messagingSenderId: "872223083121",
-  appId: "1:872223083121:web:3561221037e1466c5429d0",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 firebase.initializeApp(firebaseConfig);
